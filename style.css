@@ -273,6 +273,10 @@ header{
     
     position:sticky;
 }
+.section--6-left>div{
+    box-shadow: 8px 10px 15px rgba(0,0,0,0.5);
+   
+}
 .portfolios{
     
     padding:4rem;
@@ -447,7 +451,7 @@ header{
 .textbox{
     display: flex;
     flex-direction: column;
-    background-image: url(images/bottom-cta.WEBP);
+    background-image: url(bottom-cta.WEBP);
     height:20rem;
     padding-top: 5rem;
     background-position: center;
